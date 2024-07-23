@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.TalentRui.com/my-docs/sitemap.xml
