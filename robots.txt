@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://TalentRui.com/my-docs/sitemap.xml
+Sitemap: http://TalentRui.com/my-docs/sitemap.xml
