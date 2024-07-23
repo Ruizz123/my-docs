@@ -35,7 +35,7 @@ copyright: 有版权
 
 ## 页面信息
 
-晨曦宝宝的抽象视频
+晨颖宝宝的抽象视频
 
 ## 页面内容
 
@@ -48,7 +48,7 @@ copyright: 有版权
 - 一个卡片:
 
   ```component VPCard
-  title: 晨曦宝宝
+  title: 晨颖宝宝
   desc: 那晚的风吹散了我们的爱
   logo: /assets/images/baobao.jpg
   background: rgba(253, 230, 138, 0.15)
