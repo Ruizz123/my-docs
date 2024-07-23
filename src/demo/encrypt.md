@@ -9,7 +9,7 @@ tag:
 
 ## 页面内容
 
-<video src="/assets/images/baobao.mp4" controls style="width: 300px;"/>
+<video src="/assets/images/spicyVideo/7.23.mp4" controls style="width: 300px;"/>
 
 ---
 
