@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://TalentRui.com",
+  hostname: "http://TalentRui.com",
 
   author: {
     name: "锐",
@@ -213,4 +213,3 @@ export default hopeTheme({
     // },
   },
 });
-
