@@ -8,14 +8,14 @@ export default hopeTheme({
 
   author: {
     name: "锐",
-    url: "https://mister-hope.com",
+    url: "https://ruizz123.github.io/my-docs/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/assets/images/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ruizz123/my-docs",
 
   docsDir: "src",
 
